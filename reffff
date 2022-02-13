@@ -1,0 +1,1 @@
+INSERT INTO `posts`(`slug`, `title`, `description`, `image_path`, `user_id`) VALUES ('first-post','First Post','Fist Description','test','1')
